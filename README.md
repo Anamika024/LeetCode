@@ -17,11 +17,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Anamika024/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3862-find-the-smallest-balanced-index](https://github.com/Anamika024/LeetCode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/Anamika024/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anamika024/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3862-find-the-smallest-balanced-index](https://github.com/Anamika024/LeetCode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
