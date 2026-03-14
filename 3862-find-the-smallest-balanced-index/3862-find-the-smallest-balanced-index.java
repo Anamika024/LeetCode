@@ -15,9 +15,8 @@ class Solution {
             long s = (i==0) ? 0 : sum[i];
             long p = (i==n-1) ? 1 : prod;
             if(s == p) return i;
-            if(i > 0) {
+            if(i>0) {
                 if(prod>1e14/nums[i]) { //maxproductValue = 10^9*10^5=10^14=1e14
-                    // prod = (long)1e14 +1;// assigining greater value from maxProductValue
                     break;
                 } else {
                     prod *= nums[i];
