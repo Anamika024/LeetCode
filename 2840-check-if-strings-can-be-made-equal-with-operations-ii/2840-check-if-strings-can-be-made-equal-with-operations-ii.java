@@ -1,7 +1,7 @@
 class Solution {
     public boolean checkStrings(String s1, String s2) {
         int n = s1.length();
-        if(n==1) return s1.equals(s2);
+        if(n<=2) return s1.equals(s2);
         char[] even1 = new char[(n+1)/2];
         char[] odd1 = new char[n/2];
 
