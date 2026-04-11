@@ -3,12 +3,13 @@ class Solution {
         int n = nums.length;
         if(n<3) return -1;
         HashMap<Integer, List<Integer>> map = new HashMap<>();
-        int min = Integer.MAX_VALUE;
         for(int i=0; i<n; i++) {
-            int key = nums[i];
-            List<Integer> list = map.getOrDefault(key, new ArrayList<>());
+            List<Integer> list = map.getOrDefault(nums[i], new ArrayList<>());
             list.add(i);
-            map.put(key, list);
+            map.put(nums[i], list);
+        }
+        int min = Integer.MAX_VALUE;
+        for(int key : map.keySet()) {
             int size = map.get(key).size();
             int dist=0;
             if(size>=3) {
