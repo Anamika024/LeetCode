@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Anamika024/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/Anamika024/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Anamika024/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Anamika024/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Anamika024/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Anamika024/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Anamika024/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Anamika024/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
