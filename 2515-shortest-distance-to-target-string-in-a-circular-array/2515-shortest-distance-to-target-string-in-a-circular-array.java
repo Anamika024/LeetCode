@@ -1,21 +1,16 @@
 class Solution {
     public int closestTarget(String[] words, String target, int startIndex) {
         int n = words.length;
-        List<Integer> list = new ArrayList<>();
+        int min = Integer.MAX_VALUE;
         for(int i=0; i<n; i++) {
             if(words[i].equals(target)) {
-                list.add(i);
+                int diff = Math.abs(i-startIndex);
+                int leftMove = diff;
+                int rightMove = n-diff;
+                min=Math.min(min, Math.min(leftMove, rightMove));
             }
         }
-        if(list.size()==0) return -1;
-        int min=n;
-        for(int idx : list) {
-            int diff = Math.abs(idx-startIndex);
-            int leftMove = diff;
-            int rightMove = n-diff;
-            min=Math.min(min, Math.min(leftMove, rightMove));
-        }
-        return min;
+        return min==Integer.MAX_VALUE ? -1 : min;
 
     }
 }
