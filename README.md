@@ -129,11 +129,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Anamika024/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anamika024/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anamika024/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Anamika024/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1622-fancy-sequence](https://github.com/Anamika024/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/Anamika024/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Segment Tree
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Anamika024/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anamika024/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anamika024/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Anamika024/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -172,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Anamika024/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anamika024/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anamika024/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
@@ -219,4 +223,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Anamika024/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Anamika024/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
