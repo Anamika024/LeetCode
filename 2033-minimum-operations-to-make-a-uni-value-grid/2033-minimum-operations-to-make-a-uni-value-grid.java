@@ -12,11 +12,9 @@ class Solution {
         Arrays.sort(arr);
         int median = arr[(m*n)/2];
         int ans=0;
-        for(int row[] : grid) {
-            for(int val : row) {
-                if(Math.abs(val-median)%x!=0) return -1;
-                ans+=Math.abs(val-median)/x;
-            }
+        for(int val : arr) {
+            if(Math.abs(val-median)%x!=0) return -1;
+            ans+=Math.abs(val-median)/x;
         }
         return ans;
 
