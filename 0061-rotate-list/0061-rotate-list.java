@@ -19,21 +19,21 @@ class Solution {
             size++;
             temp=temp.next;
         }
-        k=k%size;
+        k=k%size; //if k==size
         if(k==0) return head;
         int len = size-k;
         ListNode prev = null;
-        ListNode right = head;
+        ListNode curr = head;
         while(len-->0) {
-            prev=right;
-            right=right.next;
+            prev=curr;
+            curr=curr.next;
         }
         prev.next=null;
-        ListNode temp1=right;
+        ListNode temp1=curr;
         while(temp1.next!=null) {
             temp1=temp1.next;
         }
         temp1.next=head;
-        return right;
+        return curr;
     }
 }
