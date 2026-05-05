@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Anamika024/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Anamika024/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anamika024/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anamika024/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -266,4 +267,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Anamika024/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anamika024/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/Anamika024/LeetCode/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
