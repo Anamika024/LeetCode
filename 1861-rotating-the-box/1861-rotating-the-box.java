@@ -10,22 +10,15 @@ class Solution {
             }
         }
         for(int col=0; col<m; col++) {
+            int emptyRow=n-1; // empty row from bottom
             for(int row=n-1; row>=0; row--) {
-                if(res[row][col]=='.') {
-                    int startRow=-1;
-                    for(int k=row-1; k>=0; k--) {
-                        if(res[k][col]=='*') {
-                            break;
-                        }else if(res[k][col]=='#') {
-                            startRow=k;
-                            break;
-                        }
-                    }
-
-                    if(startRow!=-1) {
-                        res[row][col]='#';
-                        res[startRow][col]='.';
-                    }
+                if(res[row][col]=='*') {
+                    emptyRow=row-1;
+                    continue;
+                }else if(res[row][col]=='#') {
+                    res[row][col]='.';
+                    res[emptyRow][col]='#';
+                    emptyRow--;
                 }
             }
         }
