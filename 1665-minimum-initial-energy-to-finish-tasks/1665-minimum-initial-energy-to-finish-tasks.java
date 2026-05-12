@@ -7,7 +7,7 @@ class Solution {
             mat[i][1]=tasks[i][1];
             mat[i][2]=Math.abs(tasks[i][1]-tasks[i][0]);
         }
-        Arrays.sort(mat, (a, b) -> Integer.compare(b[2], a[2]));
+        Arrays.sort(mat, (a, b) -> (b[2]-a[2]));
 
         int sum1=0, sum2=0;
         for(int task[] : tasks) {
