@@ -26,9 +26,8 @@ class Solution {
         for(int task[] : tasks) {
             if(energy<task[1]) {
                 return false;
-            }else {
-                energy-=task[0];
             }
+            energy-=task[0];
         }
         return true;
     }
