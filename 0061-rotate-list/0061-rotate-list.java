@@ -21,19 +21,19 @@ class Solution {
         }
         k=k%size; //if k==size
         if(k==0) return head;
-        int len = size-k;
+        int breakPoint = size-k;
         ListNode prev = null;
         ListNode curr = head;
-        while(len-->0) {
+        while(breakPoint-->0) {
             prev=curr;
             curr=curr.next;
         }
         prev.next=null;
-        ListNode temp1=curr;
-        while(temp1.next!=null) {
-            temp1=temp1.next;
+        ListNode tail=curr;
+        while(tail.next!=null) {
+            tail=tail.next;
         }
-        temp1.next=head;
+        tail.next=head;
         return curr;
     }
 }
