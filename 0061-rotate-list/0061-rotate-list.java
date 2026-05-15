@@ -13,27 +13,26 @@ class Solution {
         if(head==null || head.next==null || k==0) {
             return head;
         }
-        int size=0;
-        ListNode temp = head;
-        while(temp!=null) {
-            size++;
-            temp=temp.next;
-        }
-        k=k%size; //if k==size
-        if(k==0) return head;
-        int breakPoint = size-k;
-        ListNode prev = null;
-        ListNode curr = head;
-        while(breakPoint-->0) {
-            prev=curr;
-            curr=curr.next;
-        }
-        prev.next=null;
-        ListNode tail=curr;
+        ListNode tail = head;
+        int size=1;
         while(tail.next!=null) {
+            size++;
             tail=tail.next;
         }
-        tail.next=head;
-        return curr;
+        k=k%size; //normalise k
+        if(k==0) return head; // if k==size
+
+        tail.next=head; // make circular
+
+        ListNode newTail = head;
+
+        for(int i=1; i<size-k; i++) {//find new tail
+            newTail=newTail.next;
+        }
+        //break after size-k steps
+        ListNode newHead = newTail.next;
+        newTail.next=null;
+        return newHead;
+
     }
 }
