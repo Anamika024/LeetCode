@@ -6,10 +6,11 @@ class Solution {
         if(arr[start]==0) {
             return true;
         }
-        arr[start]=-arr[start];//marked as visited
+        int jump = arr[start];
+        arr[start]=-1;//marked as visited
 
-        boolean right = canReach(arr, start+arr[start]);
-        boolean left = canReach(arr, start-arr[start]);
+        boolean right = canReach(arr, start+jump);
+        boolean left = canReach(arr, start-jump);
 
         return left||right;
     }
