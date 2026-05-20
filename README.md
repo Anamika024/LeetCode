@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anamika024/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0189-rotate-array](https://github.com/Anamika024/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0396-rotate-function](https://github.com/Anamika024/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0455-assign-cookies](https://github.com/Anamika024/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Anamika024/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1306-jump-game-iii](https://github.com/Anamika024/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Anamika024/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/Anamika024/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anamika024/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anamika024/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anamika024/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Anamika024/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0455-assign-cookies](https://github.com/Anamika024/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anamika024/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anamika024/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anamika024/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -237,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/Anamika024/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0189-rotate-array](https://github.com/Anamika024/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Anamika024/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0455-assign-cookies](https://github.com/Anamika024/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anamika024/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Anamika024/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [2540-minimum-common-value](https://github.com/Anamika024/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
