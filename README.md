@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1094-car-pooling](https://github.com/Anamika024/LeetCode/tree/main/1094-car-pooling/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Anamika024/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anamika024/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Anamika024/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/Anamika024/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0455-assign-cookies](https://github.com/Anamika024/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Anamika024/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1094-car-pooling](https://github.com/Anamika024/LeetCode/tree/main/1094-car-pooling/) | Medium |
 | [1306-jump-game-iii](https://github.com/Anamika024/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Anamika024/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Anamika024/LeetCode/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Anamika024/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [1094-car-pooling](https://github.com/Anamika024/LeetCode/tree/main/1094-car-pooling/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Anamika024/LeetCode/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anamika024/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anamika024/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -202,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Anamika024/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0455-assign-cookies](https://github.com/Anamika024/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [1094-car-pooling](https://github.com/Anamika024/LeetCode/tree/main/1094-car-pooling/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Anamika024/LeetCode/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anamika024/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anamika024/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -263,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Anamika024/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Anamika024/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1094-car-pooling](https://github.com/Anamika024/LeetCode/tree/main/1094-car-pooling/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Anamika024/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Anamika024/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Anamika024/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
