@@ -5,14 +5,18 @@ class Solution {
             freq[c-'a']++;
         }
 
-        int aFreq = freq[0], bFreq=freq[1], lFreq=freq[11], nFreq=freq[13], oFreq=freq[14];
+        int b = freq['b'-'a'];
+        int a = freq['a'-'a'];
+        int l = freq['l'-'a'];
+        int o = freq['o'-'a'];
+        int n = freq['n'-'a'];
 
-        //single char ->a, b, n, paired char-> l, o
+        //single char ->a, b, n, double char-> l, o
 
-        int singleMin = Math.min(aFreq, Math.min(bFreq, nFreq));
-        int pairedMin = Math.min(lFreq, oFreq);
+        int singleMin = Math.min(a, Math.min(b, n));
+        int doubleMin = Math.min(l, o);
 
-        return Math.min(singleMin, pairedMin/2);
+        return Math.min(singleMin, doubleMin/2);
 
         
     }
